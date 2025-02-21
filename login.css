@@ -1,0 +1,42 @@
+body{
+  color:black;
+  background-color: white;
+  text-align: center;
+}
+h2{
+  color:gold;
+  font-weight: bold;
+  background-color: black;
+  text-align: center;
+  text-shadow:5px 5px 5px blue;
+  text-transform: Uppercase;
+  font-size: 30px;
+  font-family: cursive;
+  border-radius: 7px;
+  border:2px solid gold;
+  
+}
+input{
+  width:80%;
+  height:40px;
+  border-radius:30px;
+  border-color:gold;
+}
+a{
+  text-decoration: none;
+  padding:15px 30px;
+  text-align:center;
+  border-radius:10px;
+  
+}
+.heg{
+  background-color:black; 
+  color:gold;
+ 
+}
+.space{
+  background-color:gold;
+  color:black;
+  margin-left:80px;
+ 
+}
